@@ -7,8 +7,8 @@
 
 @media screen and (max-width: 320px) {
    .intro__text {
-   margin-bottom: 34px;
-   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-      }
+      margin-bottom: 34px;
+      text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+   }
 
 }

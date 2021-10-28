@@ -5,11 +5,11 @@
 @media screen and (max-width: 768px) {
    .place-container {
       margin-top: 88px;
-     }
+   }
 }
 
 @media screen and (max-width: 700px) {
    .place-container {
       margin-top: 64px;
-     }
+   }
 }
